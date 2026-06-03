@@ -44,43 +44,42 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
 
 ### 📊 Dynamic Insights
 
-<!-- GitHub Stats — auto-updates with every push/commit -->
+<!-- GitHub Stats — reliable, works even on new accounts -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117CC&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true&hide=contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoultrim&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117" />
 </p>
 
-<!-- Top Languages — auto-updates when you push code in new repos -->
+<!-- Streak Stats — using demolab (herokuapp is dead) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoultrim&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117CC" />
-</p>
-
-<!-- Streak Stats — fixed URL using streak-stats.demolab.com (herokuapp is deprecated) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tshoultrim&theme=transparent&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&background=0D1117CC&dates=888888" />
-</p>
-
-<!-- Contribution Graph — animates with every new commit -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tshoultrim&theme=react-dark&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=ffffff&area_color=00b4d810&bg_color=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=tshoultrim&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&background=0D1117&dates=888888" />
 </p>
 
 ---
 
 ### 🚀 Latest Repositories
 
-<!-- Clicking this always shows your most recently updated repos — fully automatic, no maintenance needed -->
 <p align="center">
   <a href="https://github.com/tshoultrim?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-00b4d8?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🗂️%20View%20All%20Repos%20(sorted%20by%20latest)-00b4d8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Your current top repos — star/fork counts update automatically -->
+<p align="center">
+  <a href="https://github.com/tshoultrim/drukoptix-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=drukoptix-ai&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117&icon_color=00b4d8" />
+  </a>
+  <a href="https://github.com/tshoultrim/DrukOptix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=DrukOptix&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117&icon_color=00b4d8" />
   </a>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
-<!-- Auto-updates as you hit new milestones -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tshoultrim&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tshoultrim&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
