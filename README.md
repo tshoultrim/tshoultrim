@@ -68,17 +68,12 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
 
 ### 🚀 Latest Repositories
 
-<!-- Pinned/latest repos — replace repo names below with your actual top repos -->
-<!-- These auto-update their star/fork counts dynamically -->
-
+<!-- Clicking this always shows your most recently updated repos — fully automatic, no maintenance needed -->
 <p align="center">
   <a href="https://github.com/tshoultrim?tab=repositories&sort=updated">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=REPLACE_REPO_1&theme=transparent&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117CC&icon_color=00b4d8" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=REPLACE_REPO_2&theme=transparent&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117CC&icon_color=00b4d8" />
+    <img src="https://img.shields.io/badge/View%20All%20Repos-00b4d8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-> 💡 **Tip:** Replace `REPLACE_REPO_1` and `REPLACE_REPO_2` above with your actual repository names to pin them. Star/fork counts update automatically.
 
 ---
 
