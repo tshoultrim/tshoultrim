@@ -20,6 +20,7 @@
 ---
 
 ### 📖 Professional Summary
+
 I am an analytical **BCA student** focused on **Data Science**, bridging the gap between physical ICT infrastructure and modern AI. With experience managing network uptime at **De-Suung (Organization) Headquarter** and deploying solutions at **GreenCyberTech**, I am now mastering the **ML lifecycle** and LLM integration for data-driven automation.
 
 ---
@@ -41,20 +42,69 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
 
 ---
 
-### 📊 Dynamic Insights (Dark Glass Theme)
+### 📊 Dynamic Insights
+
+<!-- GitHub Stats — auto-updates with every push/commit -->
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117CC" />
-  <br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoultrim&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117CC" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117CC&include_all_commits=true&count_private=true" />
 </p>
 
+<!-- Top Languages — auto-updates when you push code in new repos -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshoultrim&theme=transparent&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&background=0D1117CC" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoultrim&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117CC" />
+</p>
+
+<!-- Streak Stats — fixed URL using streak-stats.demolab.com (herokuapp is deprecated) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tshoultrim&theme=transparent&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&background=0D1117CC&dates=888888" />
+</p>
+
+<!-- Contribution Graph — animates with every new commit -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tshoultrim&theme=react-dark&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=ffffff&area_color=00b4d810&bg_color=0D1117" />
+</p>
+
+---
+
+### 🚀 Latest Repositories
+
+<!-- Pinned/latest repos — replace repo names below with your actual top repos -->
+<!-- These auto-update their star/fork counts dynamically -->
+
+<p align="center">
+  <a href="https://github.com/tshoultrim?tab=repositories&sort=updated">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=REPLACE_REPO_1&theme=transparent&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117CC&icon_color=00b4d8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=REPLACE_REPO_2&theme=transparent&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117CC&icon_color=00b4d8" />
+  </a>
+</p>
+
+> 💡 **Tip:** Replace `REPLACE_REPO_1` and `REPLACE_REPO_2` above with your actual repository names to pin them. Star/fork counts update automatically.
+
+---
+
+### 🏆 GitHub Trophies
+<!-- Auto-updates as you hit new milestones -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tshoultrim&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage" />
+</p>
+
+---
+
+### 📈 Profile Views & Social
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tshoultrim&label=Profile+Views&color=00b4d8&style=for-the-badge" />
+  <a href="https://github.com/tshoultrim?tab=followers">
+    <img src="https://img.shields.io/github/followers/tshoultrim?label=Followers&style=for-the-badge&color=00b4d8&labelColor=0D1117" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Built with 🤍 from the Land of the Thunder Dragon 🇧🇹</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00b4d8,0D1117&height=100&section=footer" />
 </p>
 
+<p align="center">
+  <b>Built with 🤍 from the Land of the Thunder Dragon 🇧🇹</b>
+</p>
