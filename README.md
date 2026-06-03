@@ -44,15 +44,19 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
 
 ### 📊 Dynamic Insights
 
-<!-- GitHub Stats — reliable, works even on new accounts -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true&hide=contribs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoultrim&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117" />
-</p>
-
-<!-- Streak Stats — using demolab (herokuapp is dead) -->
+<!-- Streak Stats — working fine, keep as is -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tshoultrim&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&background=0D1117&dates=888888" />
+</p>
+
+<!-- GitHub Stats — using alternative reliable provider: github-stats.vercel.app -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tshoultrim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+</p>
+
+<!-- Top Languages — using gh-stats.vercel.app as fallback -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoultrim&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -65,13 +69,13 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
   </a>
 </p>
 
-<!-- Your current top repos — star/fork counts update automatically -->
+<!-- Live repo stats — auto-updates star/fork counts -->
 <p align="center">
   <a href="https://github.com/tshoultrim/drukoptix-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=drukoptix-ai&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117&icon_color=00b4d8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=drukoptix-ai&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/tshoultrim/DrukOptix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=DrukOptix&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0D1117&icon_color=00b4d8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tshoultrim&repo=DrukOptix&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
 </p>
 
@@ -79,7 +83,7 @@ I am an analytical **BCA student** focused on **Data Science**, bridging the gap
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tshoultrim&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tshoultrim&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
